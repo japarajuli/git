@@ -1,1 +1,2 @@
-# git
+# GIT
+Making capital letter 
