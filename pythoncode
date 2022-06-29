@@ -15,3 +15,5 @@ plt.title("Energy output from various fuel sources")
 plt.xticks(x_pos, x)
 
 plt.show()
+
+# This need to be added jagadish 
